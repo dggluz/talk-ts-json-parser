@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/dggluz/talk-ts-json-parser/issues"
   },
-  "homepage": "https://github.com/dggluz/talk-ts-json-parser#readme"
+  "homepage": "https://github.com/dggluz/talk-ts-json-parser#readme",
+  "devDependencies": {
+    "@types/jest": "28.1.8",
+    "jest": "28.1.3",
+    "ts-jest": "28.0.8",
+    "tslint": "6.1.3",
+    "typescript": "4.8.2"
+  }
 }
