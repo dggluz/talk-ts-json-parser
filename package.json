@@ -1,0 +1,25 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "TypeScript JSON parser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dggluz/talk-ts-json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "parser",
+    "typescript",
+    "functional"
+  ],
+  "author": "Gonzalo Gluzman <dggluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dggluz/talk-ts-json-parser/issues"
+  },
+  "homepage": "https://github.com/dggluz/talk-ts-json-parser#readme"
+}
