@@ -1,4 +1,4 @@
-import { fooParser } from '../src/parser/foo-parser';
+import { fooParser } from '../src/other-parsers/foo-parser';
 
 describe('fooParser', () => {
   it('Parses "foo"', async () => {
