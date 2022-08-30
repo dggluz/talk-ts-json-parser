@@ -7,6 +7,7 @@
     "t-foo": "npm run test -- ./tests/foo-parser.test.ts",
     "t-fromStr": "npm run test -- ./tests/from-str.test.ts",
     "t-map": "npm run test -- ./tests/map.test.ts",
+    "t-null": "npm run test -- ./tests/null-parser.test.ts",
     "test": "jest"
   },
   "repository": {
